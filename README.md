@@ -175,4 +175,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 
-Inspired by [vikingmute's worktree management script](https://gist.github.com/vikingmute/0c641db6a834a7a6bee7bd677323bc97).
+This plugin is adapted from [vikingmute's Git Worktree management script](https://gist.github.com/vikingmute/0c641db6a834a7a6bee7bd677323bc97), originally shared in [this post](https://x.com/vikingmute/status/2006004791424733525).
+
+The original script has been refactored into an oh-my-zsh plugin format for easier installation and use.

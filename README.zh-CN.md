@@ -175,4 +175,6 @@ MIT License - 可自由使用和修改。
 
 ## 致谢
 
-灵感来源于 [vikingmute 的 worktree 管理脚本](https://gist.github.com/vikingmute/0c641db6a834a7a6bee7bd677323bc97)。
+本插件改编自 [vikingmute 的 Git Worktree 管理脚本](https://gist.github.com/vikingmute/0c641db6a834a7a6bee7bd677323bc97)，原脚本分享于[这条推文](https://x.com/vikingmute/status/2006004791424733525)。
+
+原始脚本已被改造为 oh-my-zsh 插件格式，以便更轻松地安装和使用。
