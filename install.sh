@@ -36,7 +36,7 @@ mkdir -p "$(dirname "$PLUGIN_DIR")"
 
 # Clone the repository
 echo "📦 Cloning repository..."
-git clone https://github.com/wangzhi108/oh-my-zsh-gitworktree.git "$PLUGIN_DIR"
+git clone https://github.com/foolgry/oh-my-zsh-gitworktree.git "$PLUGIN_DIR"
 
 # Check if plugin is already in .zshrc
 if grep -q "gitworktree" ~/.zshrc 2>/dev/null; then
