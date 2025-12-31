@@ -17,7 +17,7 @@
 ### 方法 1：一键安装（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/wangzhi108/oh-my-zsh-gitworktree/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/foolgry/oh-my-zsh-gitworktree/main/install.sh | bash
 ```
 
 ### 方法 2：手动安装
@@ -25,7 +25,7 @@ curl -fsSL https://raw.githubusercontent.com/wangzhi108/oh-my-zsh-gitworktree/ma
 1. 克隆仓库到 oh-my-zsh 自定义插件目录：
 
 ```bash
-git clone https://github.com/wangzhi108/oh-my-zsh-gitworktree.git \
+git clone https://github.com/foolgry/oh-my-zsh-gitworktree.git \
   ~/.oh-my-zsh/custom/plugins/gitworktree
 ```
 

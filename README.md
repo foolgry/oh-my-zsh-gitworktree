@@ -17,7 +17,7 @@ English | [简体中文](README.zh-CN.md)
 ### Method 1: One-line Install (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/wangzhi108/oh-my-zsh-gitworktree/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/foolgry/oh-my-zsh-gitworktree/main/install.sh | bash
 ```
 
 ### Method 2: Manual Install
@@ -25,7 +25,7 @@ curl -fsSL https://raw.githubusercontent.com/wangzhi108/oh-my-zsh-gitworktree/ma
 1. Clone the repository to oh-my-zsh custom plugins directory:
 
 ```bash
-git clone https://github.com/wangzhi108/oh-my-zsh-gitworktree.git \
+git clone https://github.com/foolgry/oh-my-zsh-gitworktree.git \
   ~/.oh-my-zsh/custom/plugins/gitworktree
 ```
 
